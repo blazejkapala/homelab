@@ -2,7 +2,7 @@
 Poniżej zamieszczam materiały z jakich korzystałem podczas przygotowywania się do webinaru w dni 30.11.2022 - którego głównym tematem był Homelab
 
 # Prezentacja
-PRezentacja jest dostępna [tutaj](https://docs.google.com/presentation/d/e/2PACX-1vQf5nGykOW6tmd7S2_rme52m8DY3H0W50E_BRZAO4hDdCx9FsqRJyJzk-n-WeEf2tr3REq5AkpuEIgg/pub?start=false&loop=false&delayms=3000)
+Prezentacja jest dostępna [tutaj](https://docs.google.com/presentation/d/e/2PACX-1vQf5nGykOW6tmd7S2_rme52m8DY3H0W50E_BRZAO4hDdCx9FsqRJyJzk-n-WeEf2tr3REq5AkpuEIgg/pub?start=false&loop=false&delayms=3000)
 
 
 # Do uporządkowania
@@ -173,3 +173,43 @@ https://fleet.linuxserver.io/image?name=linuxserver/homeassistant
 
 https://fleet.linuxserver.io/image?name=linuxserver/nextcloud
 
+
+
+
+
+----------------------
+Jeśli jesteś zainteresowanym tworzeniem własnego Homelab, to mam dla Ciebie kilka cennych porad i linków, które mogą pomóc Ci w tym procesie.
+
+Homelab to po prostu zestaw serwerów i innego sprzętu IT, który masz w domu. Może to być używane do nauki, testowania nowych technologii lub po prostu jako sposób na zwiększenie wydajności i elastyczności Twojej sieci domowej.
+
+Jednym z ważniejszych kroków jest dobór odpowiedniego sprzętu. Na przykład, jeśli chcesz używać Homelab do testowania nowych systemów operacyjnych, to potrzebujesz kilku komputerów z różnymi konfiguracjami. Jeśli chcesz używać Homelab do przechowywania plików, to potrzebujesz dysku twardego lub macierzy dysków.
+
+Innym ważnym krokiem jest zabezpieczanie Homelab. Musisz zabezpieczyć swój sprzęt przed włamaniami, awariami i innymi problemami. Możesz to zrobić poprzez użycie oprogramowania do zarządzania i monitorowania swoich urządzeń oraz poprzez stosowanie haseł i innych środków bezpieczeństwa.
+
+Jeśli chcesz dowiedzieć się więcej o Homelabie, to polecam Ci przejrzenie prezentacji, która jest dostępna tutaj.
+
+Ponadto, przydatne mogą okazać się artykuły dostępne na stronie https://linuxhandbook.com/homelab/ oraz wpisy na forum Reddit https://www.reddit.com/r/homelab/comments/z1ss9s/setup_first_my_homelab/ i https://www.reddit.com/r/homelab/comments/ytppse/my_new_rack/.
+
+Na koniec polecam zapoznać się z poniższymi linkami, które zawierają dodatkowe informacje i przykłady dotyczące Homelab:
+
+    http://shownotes.opensourceisawesome.com/wbo/
+    https://haiwen.github.io/seafile-admin-docs/docker/deploy_seafile_with_docker/
+    https://github.com/szabodanika/microbin
+    https://dashy.to/docs/quick-start/
+    https://github.com/pucherot/Pi.Alert
+    https://www.ntop.org/
+
+Jeśli masz jakiekolwiek pytania lub potrzebujesz dodatkowych informacji, to polecam Ci wysłanie pytania na forum Reddit lub skorzystanie z YouTube, gdzie można znaleźć wiele filmów instruktażowych dotyczących Homelab. Pamiętaj, że zawsze możesz też skorzystać z usług dostawców chmury takich jak Hetzner, Obsidian, AWS, Google Azure itp.
+
+
+Oprócz tego, ważnym aspektem Homelab jest strategia backupu. Nie możemy zapomnieć o robieniu regularnych kopii zapasowych naszych ważnych plików i danych, aby mieć pewność, że nic nam nie zginie w przypadku awarii sprzętu lub innego problemu. Istnieją różne sposoby robienia backupu, takie jak kopiowanie plików na zewnętrzny dysk twardy lub korzystanie z usług chmury.
+
+Innym ważnym elementem jest wykorzystanie narzędzi do monitorowania i zarządzania Homelab, takich jak Nagios, które pozwalają na monitorowanie działania poszczególnych urządzeń i zdalne zarządzanie nimi.
+
+Warto też zwrócić uwagę na systemy automatycznego powiadamiania jak Alarmy czy Monitoringi, Kamery, które pozwalają na odpowiednie reagowanie na awarie czy nieprawidłowe działanie systemu.
+
+Dla osób, które chcą rozwijać swoje umiejętności programistyczne ciekawą opcją jest Arduino czy ESPEasy.
+
+Na koniec warto też pamiętać, że Homelab nie jest tylko o technologiach, ale również o rozwijaniu swoich umiejętności sprzedażowych, tak aby móc efektywnie prezentować swoje rozwiązania i znaleźć dla nich zastosowanie.
+
+Mam nadzieję, że te informacje pomogą Ci w rozpoczęciu przygody z Homelabem i rozwijaniu swoich umiejętności w zakresie IT.
